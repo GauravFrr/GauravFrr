@@ -1,37 +1,52 @@
 # Hi 👋 I'm Gaurav
 
-## AI Engineer | Automation & Intelligent Systems Enthusiast
+## AI Engineer | AI Agent Developer | Professional Web Developer
 
-🚀 Building smart AI solutions to simplify everyday life  
-🧠 Specializing in Machine Learning, Deep Learning, and Personal AI Assistants  
-💡 Passionate about creating efficient, custom AI projects that deliver real impact
+🚀 Building intelligent AI agents and smart automation solutions to simplify life and work  
+💻 Expert in full-stack web development and deploying scalable AI-powered applications  
+🧠 Passionate about cutting-edge Machine Learning, Deep Learning, and AI-driven systems  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
-- Python | TensorFlow | PyTorch | scikit-learn  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Automation & Workflow Optimization  
-- Model Deployment & Scaling  
+### AI & Machine Learning
+- Python, TensorFlow, PyTorch, scikit-learn  
+- Natural Language Processing (NLP) & Conversational AI  
+- Computer Vision & Image Processing  
+- Reinforcement Learning & Model Optimization  
+- AI Agent Development & Automation  
+
+### Web Development
+- JavaScript (ES6+), TypeScript  
+- React, Next.js, Node.js, Express  
+- REST APIs & GraphQL  
+- HTML5, CSS3, SASS  
+- Database: MongoDB, PostgreSQL, MySQL  
+
+### DevOps & Tools
+- Docker, Kubernetes  
+- Git & GitHub workflows  
+- CI/CD pipelines  
+- Cloud platforms (AWS, GCP basics)  
 
 ---
 
 ## 📂 Featured Projects
 
 ### [Sona-AI](https://github.com/DarkMikeX/Sona-AI)  
-A personal AI assistant like JARVIS that helps control your system, manage reminders, and simplify daily tasks — your reliable digital friend.
+A personal AI assistant inspired by JARVIS that controls your system, manages reminders, and simplifies daily tasks — your reliable AI companion.
 
 ### [Portfolio](https://github.com/DarkMikeX/Portfolio)  
-A professional, fully-featured portfolio showcasing projects and skills — clean design and easy to navigate.
+A professional, modern portfolio site showcasing my projects and skills with a clean, responsive design.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Reinforcement Learning  
-- Advanced AI Model Optimization  
+- Advanced Reinforcement Learning  
+- Scalable AI Model Deployment  
+- Real-time AI Systems & Edge Computing  
 
 ---
 
