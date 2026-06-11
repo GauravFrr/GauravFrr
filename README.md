@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gaurav&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Automation%20Dev%20%E2%80%A2%20Freelancer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2d2d2d&height=180&section=header&text=Gaurav&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Automation%20Dev%20%E2%80%A2%20Freelancer&descAlignY=55&descSize=18&descColor=aaaaaa" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+AI+Agents+%7C+Automation;Fullstack+Dev+from+Bhiwani%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Available+for+Freelance+%E2%80%94+Let%27s+build+something)](https://github.com/GauravFrr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+AI+Agents+%7C+Automation;Fullstack+Dev+from+Bhiwani%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Open+for+Freelance+%E2%80%94+Let%27s+build+something)](https://github.com/GauravFrr)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GauravFrr&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/GauravFrr)
-[![GitHub followers](https://img.shields.io/github/followers/GauravFrr?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/GauravFrr)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/gauravstack)
+[![Profile Views](https://komarev.com/ghpvc/?username=GauravFrr&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1a1a)](https://github.com/GauravFrr)
+[![GitHub followers](https://img.shields.io/github/followers/GauravFrr?style=for-the-badge&color=ffffff&labelColor=1a1a1a&label=FOLLOWERS)](https://github.com/GauravFrr)
+[![Fiverr](https://img.shields.io/badge/FIVERR-AVAILABLE-ffffff?style=for-the-badge&labelColor=1a1a1a&logo=fiverr&logoColor=1DBF73)](https://fiverr.com/gauravstack)
 
 </div>
 
@@ -18,15 +18,15 @@
 
 ```python
 class Gaurav:
-    name         = "Gaurav"                           # alias: Mikey
+    name         = "Gaurav"                             # alias: Mikey
     location     = "Bhiwani, Haryana, India 🇮🇳"
     role         = ["AI Engineer", "Fullstack Dev", "Automation Freelancer"]
     stack        = ["Python", "LangChain", "Node.js", "React", "Firebase"]
-    currently    = ["Dadaji AI Studio 🎬", "Rythmiq App 🎵", "AI Agents 🤖"]
+    building     = ["Dadaji AI Studio 🎬", "Rythmiq App 🎵", "AI Agents 🤖"]
     fiverr       = "gauravstack"
     email        = "mikey.ai.dev@gmail.com"
     mindset      = "Ship fast. Learn faster. Break things. Fix them."
-    open_to      = "Freelance Projects, Collabs, AI/Automation work"
+    open_to      = "Freelance projects, collabs, AI/automation work"
 ```
 
 </div>
@@ -37,11 +37,11 @@ class Gaurav:
 
 ```
 🔭  Currently building  →  Dadaji AI Studio (AI-powered Hindi YouTube Shorts creator)
-🎵  Side project        →  Rythmiq (Spotify-like Android app with JioSaavn)
+🎵  Side project        →  Rythmiq (Spotify-like Android app powered by JioSaavn)
 🤖  Obsessed with       →  LLMs, RAG pipelines, AI Agents, Automation
-💼  Freelancing on      →  Fiverr (AI chatbots, automation, fullstack apps)
+💼  Freelancing on      →  Fiverr — AI chatbots, automation, fullstack apps
 📚  Learning            →  Jetpack Compose, FLUX image gen, VPS deployment
-⚡  Fun fact            →  Self-taught dev. No degree, just code and caffeine.
+⚡  Fun fact            →  Self-taught dev. No degree, just code and obsession.
 ```
 
 ---
@@ -50,62 +50,62 @@ class Gaurav:
 
 <div align="center">
 
-| 🏷️ Project | 💡 What it does | 🛠️ Stack | 🔗 |
-|:---:|:---|:---|:---:|
-| 🎬 **Dadaji AI Studio** | AI pipeline that auto-creates Hindi supernatural YouTube Shorts — Imagen 3 + FLUX + auto-video | `Python` `Imagen3` `FLUX` `CapCut` | [→](https://github.com/GauravFrr) |
-| 🎵 **Rythmiq** | Spotify-like Android music app powered by JioSaavn API | `Kotlin` `Jetpack Compose` `Firebase` `Supabase` | [→](https://github.com/GauravFrr) |
-| 🤖 **Atlas Agent** | Fully autonomous AI income agent — 40+ earning methods, multi-tool orchestration | `Python` `LangChain` `Gemini 2.5` `Groq` | [→](https://github.com/GauravFrr) |
-| 📊 **STRATEX PRO** | AI trading backtester: YouTube transcript → Gemini → Python code → PDF report | `Python` `FastAPI` `React` `Gemini` | [→](https://github.com/GauravFrr) |
-| 🌐 **AI Outreach Bot** | Auto-generates demo pages for local businesses + cold email system | `Node.js` `Cloudflare R2` `Apollo.io` | [→](https://github.com/GauravFrr) |
+| Project | What it does | Stack |
+|:---:|:---|:---:|
+| 🎬 **Dadaji AI Studio** | AI pipeline that auto-creates Hindi supernatural YouTube Shorts — Imagen 3 + FLUX | `Python` `Imagen3` `FLUX` |
+| 🎵 **Rythmiq** | Spotify-like Android music app powered by JioSaavn API | `Kotlin` `Jetpack Compose` `Firebase` |
+| 🤖 **Atlas Agent** | Autonomous AI income agent — 40+ earning methods, multi-tool | `Python` `LangChain` `Gemini 2.5` |
+| 📊 **STRATEX PRO** | AI trading backtester: transcript → code → backtest → PDF | `Python` `FastAPI` `React` |
+| 🌐 **AI Outreach Bot** | Auto-generates demo pages for local businesses + cold email | `Node.js` `Cloudflare R2` |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=ffffff)
 
 **AI / ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF6B35)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=llvm&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=chainlink&logoColor=ffffff)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Gemini](https://img.shields.io/badge/Gemini-1a1a1a?style=for-the-badge&logo=google&logoColor=ffffff)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a1a?style=for-the-badge&logo=databricks&logoColor=ffffff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=ffffff)
+![Ollama](https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=llvm&logoColor=ffffff)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1a1a1a?style=for-the-badge&logo=jetpackcompose&logoColor=ffffff)
 
-**Backend & DB**
+**Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=for-the-badge&logo=supabase&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Railway](https://img.shields.io/badge/Railway-1a1a1a?style=for-the-badge&logo=railway&logoColor=ffffff)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a1a?style=for-the-badge&logo=cloudflare&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=ffffff)
 
 </div>
 
@@ -115,12 +115,12 @@ class Gaurav:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravFrr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravFrr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravFrr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=888888&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravFrr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=GauravFrr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=GauravFrr&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=2d2d2d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -130,7 +130,7 @@ class Gaurav:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GauravFrr&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GauravFrr&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -140,7 +140,7 @@ class Gaurav:
 
 <div align="center">
 
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravFrr&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravFrr&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=2d2d2d&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -153,28 +153,26 @@ class Gaurav:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravFrr/GauravFrr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravFrr/GauravFrr/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GauravFrr/GauravFrr/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/GauravFrr/GauravFrr/output/github-snake.svg" />
 </picture>
 
 </div>
 
-> ⚡ To enable the snake, add a GitHub Action — instructions below ↓
-
 ---
 
-## 💼 Hire Me — Fiverr Services
+## 💼 Freelance Services
 
 <div align="center">
 
-| Service | Description | Starting At |
+| Service | Description | From |
 |:---:|:---|:---:|
 | 🤖 **AI Chatbot** | Custom RAG chatbot trained on your data | $20 |
 | ⚙️ **AI Automation** | n8n / Python / LangChain workflow automations | $30 |
-| 🌐 **Fullstack App** | React + Node.js + Firebase/Supabase web app | $50 |
-| 🔗 **API Integration** | Connect any API to your system | $15 |
-| 🧠 **AI Agent** | Autonomous AI agent for your use case | $40 |
+| 🌐 **Fullstack App** | React + Node.js + Firebase web app | $50 |
+| 🔗 **API Integration** | Connect any API to your existing system | $15 |
+| 🧠 **AI Agent** | Autonomous agent built for your use case | $40 |
 
-🔗 **[Book me on Fiverr → fiverr.com/gauravstack](https://fiverr.com/gauravstack)**
+**[→ Book me on Fiverr: fiverr.com/gauravstack](https://fiverr.com/gauravstack)**
 
 </div>
 
@@ -183,38 +181,38 @@ class Gaurav:
 ## 🌱 Currently Learning
 
 ```
-📱  Jetpack Compose        →  Building Rythmiq Android app
-🎨  FLUX / Veo 3           →  AI image & video gen for Dadaji AI Studio
-☁️  VPS Deployment         →  Ubuntu, Nginx, systemd services
-🧪  RAG Optimization       →  ChromaDB + LangChain pipelines
+📱  Jetpack Compose     →  Building Rythmiq Android app
+🎨  FLUX / Veo 3        →  AI image & video gen for Dadaji AI Studio
+☁️  VPS Deployment      →  Ubuntu, Nginx, systemd, reverse proxies
+🧪  RAG Optimization    →  ChromaDB + LangChain advanced pipelines
 ```
 
 ---
 
-## 📫 Connect with Me
+## 📫 Reach Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-mikey.ai.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikey.ai.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gauravxd.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gauravxd.dev)
-[![Fiverr](https://img.shields.io/badge/Fiverr-gauravstack-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/gauravstack)
+[![Email](https://img.shields.io/badge/Gmail-mikey.ai.dev%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:mikey.ai.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gauravxd.dev-1a1a1a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://gauravxd.dev)
+[![Fiverr](https://img.shields.io/badge/Fiverr-gauravstack-1a1a1a?style=for-the-badge&logo=fiverr&logoColor=ffffff)](https://fiverr.com/gauravstack)
 
 <br/>
 
-> *"Building AI tools by day, breaking them at night. Self-taught, Haryana se. Let's build something crazy."*
+> *"Self-taught. Haryana se. Building real AI — not just talking about it."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,50:1a1a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
 
 ---
 
 <details>
-<summary>⚙️ <b>Setup: Enable the Snake Animation</b></summary>
+<summary>⚙️ <b>Enable Snake Animation — GitHub Action Setup</b></summary>
 
 <br/>
 
-1. In your profile repo (`GauravFrr/GauravFrr`), create `.github/workflows/snake.yml`:
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake
@@ -242,7 +240,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Go to **Actions** tab → Run workflow manually once.
-3. Done! Snake will auto-update every 12 hours. 🐍
+Run it once manually from the Actions tab. Done 🐍
 
 </details>
