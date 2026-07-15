@@ -218,7 +218,7 @@ AI-powered Hindi YouTube Shorts creation studio. Claude API for scripts → Veo 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-mikey.ai.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravdevxd@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-gauravdevxd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravdevxd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravstack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravstack)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gauravxd.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gauravxd.dev)
 
