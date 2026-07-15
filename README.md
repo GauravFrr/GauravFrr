@@ -24,7 +24,7 @@ class Gaurav:
     core_stack   = ["Python", "LangChain", "FastAPI", "Next.js", "NestJS"]
     currently    = ["MemoryOS 🧠", "Nyxleads 🎯", "Vyom 🎬"]
     linkedin     = "linkedin.com/in/gauravstack"
-    email        = "mikey.ai.dev@gmail.com"
+    email        = "gauravdevxd@gmail.com"
     experience   = "3+ years building real AI systems"
     mindset      = "Ship fast. Learn faster. Break things. Fix them."
     open_to      = "Full-time AI Engineer — Remote / India"
@@ -218,7 +218,7 @@ AI-powered Hindi YouTube Shorts creation studio. Claude API for scripts → Veo 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-mikey.ai.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikey.ai.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-mikey.ai.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravdevxd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravstack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravstack)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gauravxd.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gauravxd.dev)
 
