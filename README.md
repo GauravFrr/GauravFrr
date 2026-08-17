@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Fullstack%20Dev&descAlignY=58&descSize=20&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20RAG%20%26%20Agent%20Systems%20%7C%20Fullstack%20Dev&descAlignY=58&descSize=18&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+that+actually+works+in+production+%F0%9F%A4%96;RAG+Pipelines+%7C+LLM+Apps+%7C+AI+Agents+%7C+Automation;3%2B+years+shipping+real+AI+systems+%F0%9F%9A%80;Self-taught.+Haryana+se.+No+degree%2C+just+code.)](https://github.com/GauravFrr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+production-grade+RAG+%2B+AI+agents+%F0%9F%A4%96;JobPilot+%7C+RankFuse+%7C+MemoryOS+%7C+Vyom;3%2B+years+shipping+real+AI+systems+%F0%9F%9A%80;Self-taught.+Haryana+se.+Now+also+BCA+student.)](https://github.com/GauravFrr)
 
 <br/>
 
@@ -18,16 +18,17 @@
 
 ```python
 class Gaurav:
-    name         = "Gaurav"                              
+    name         = "Gaurav"
     location     = "Bhiwani, Haryana, India 🇮🇳"
-    role         = ["AI Engineer", "LLM Developer", "Fullstack Dev"]
-    core_stack   = ["Python", "LangChain", "FastAPI", "Next.js", "NestJS"]
-    currently    = ["MemoryOS 🧠", "Nyxleads 🎯", "Vyom 🎬"]
+    role         = ["Generative AI Engineer", "Backend Dev", "Fullstack Dev"]
+    education    = "BCA @ S.L.N. Hindu College — started Oct 2026"
+    core_stack   = ["Python", "FastAPI", "Next.js", "LangChain/RAG", "PostgreSQL"]
+    currently    = ["JobPilot 🎯", "RankFuse 🔍", "Vyom 🎬"]
     linkedin     = "linkedin.com/in/gauravstack"
     email        = "gauravdevxd@gmail.com"
     experience   = "3+ years building real AI systems"
     mindset      = "Ship fast. Learn faster. Break things. Fix them."
-    open_to      = "Full-time AI Engineer — Remote / India"
+    open_to      = "Full-time AI Engineer / Backend — Remote"
 ```
 
 </div>
@@ -41,21 +42,21 @@ class Gaurav:
 <td width="50%">
 
 **🤖 AI & LLM Systems**
-- RAG pipelines with LangChain + ChromaDB
-- AI Agents using smolagents & LangGraph
-- LLM API integrations (OpenAI, Anthropic, Gemini)
-- Local LLMs with Ollama on self-hosted VPS
-- Prompt engineering & context management
+- RAG pipelines: hybrid retrieval (BM25 + dense + RRF + reranking)
+- AI agents & automation with LangChain / LangGraph
+- LLM API integrations (Claude, Gemini, OpenAI, Groq)
+- Vector search with pgvector / ChromaDB
+- Prompt engineering & context/memory management
 
 </td>
 <td width="50%">
 
 **🔧 Fullstack & Automation**
-- FastAPI + Next.js + NestJS backends
-- Telegram bots for international clients
-- Workflow automation with n8n & Python
-- Android apps with Kotlin & Jetpack Compose
-- Cold email outreach & lead gen systems
+- FastAPI + Next.js production backends
+- Telegram bots for automation & notifications
+- Job-search & workflow automation pipelines
+- Self-hosted deployments on VPS (Webdock, Ubuntu)
+- AI-assisted dev workflow (Antigravity + Claude review)
 
 </td>
 </tr>
@@ -69,32 +70,32 @@ class Gaurav:
 <tr>
 <td width="33%" align="center">
 
-### 🧠 MemoryOS
-**Universal AI Memory Layer**
+### 🎯 JobPilot
+**AI Job-Application Automation**
 
-Sits between you and ChatGPT/Claude/Gemini. Captures conversations → extracts structured memories via Gemini API → injects context automatically into new sessions.
+Personal job-hunt automation — scrapes & scores roles, drafts applications, and pings via Telegram. Nothing auto-submits — every apply is a human-approved tap.
 
-`Next.js 15` `NestJS` `pgvector`
-`Redis` `BullMQ` `Plasmo` `Gemini`
+`FastAPI` `Next.js` `PostgreSQL`
+`pgvector` `Telegram Bot`
 
 </td>
 <td width="33%" align="center">
 
-### 🎯 Nyxleads
-**AI Lead Scraping CLI**
+### 🔍 RankFuse
+**Hybrid RAG Retrieval Library**
 
-Multi-source lead scraping tool with license-key auth, hardware fingerprint binding, and 3 subscription tiers. Anti-piracy thin-client architecture.
+pip-installable retrieval engine combining ChromaDB + BM25 + Reciprocal Rank Fusion + cross-encoder reranking, built for plug-and-play RAG accuracy gains.
 
-`Python` `Typer` `FastAPI`
-`Supabase` `Nuitka`
+`Python` `ChromaDB` `BM25`
+`Cross-Encoder Reranking`
 
 </td>
 <td width="33%" align="center">
 
 ### 🎬 Vyom
-**AI Shorts Studio**
+**AI Hindi Shorts Studio**
 
-AI-powered Hindi YouTube Shorts creation studio. Claude API for scripts → Veo 3.1/Seedance for video → Imagen 3 for visuals. Free alternative to Kling/Runway.
+AI-powered Hindi YouTube Shorts pipeline. Claude API for scripts → Veo/Seedance for video → Imagen 3 for visuals — a free alternative to Kling/Runway.
 
 `Python` `Claude API`
 `Imagen 3` `Veo 3.1`
@@ -109,11 +110,12 @@ AI-powered Hindi YouTube Shorts creation studio. Claude API for scripts → Veo 
 
 | 🏷️ Project | 💡 Description | 🛠️ Stack |
 |---|---|---|
-| 🤖 **anti-forward-bot** | Multi-tenant Telegram bot — reposts forwarded content clean, no "Forwarded from" tag | `Python` `aiogram 3` `PostgreSQL` `Redis` `Docker` |
-| 🎵 **Rythmiq** | Spotify-like Android music app for Hindi, Punjabi & English via JioSaavn API | `Kotlin` `Jetpack Compose` `ExoPlayer` `Supabase` |
-| 🤖 **Atlas Agent** | Autonomous AI income agent — 40+ earning methods, multi-tool orchestration | `Python` `LangChain` `Gemini 2.5` `Groq` |
-| 📧 **AI Outreach System** | Cold email pipeline — Apollo.io scraping + AI icebreakers + Instantly.ai sequences | `Python` `Apollo.io` `Instantly.ai` `OpenAI` |
-| 📄 **RAG Chatbot** | Document Q&A chatbot — query internal knowledge bases conversationally | `Python` `LangChain` `ChromaDB` `FastAPI` `OpenAI` |
+| 🧠 **MemoryOS** | Universal AI memory layer — captures conversations, extracts structured memories, injects context back into ChatGPT/Claude/Gemini | `Next.js` `NestJS` `pgvector` `Redis` `BullMQ` |
+| 📊 **Retryv** | Production RAG system — reranking pushed retrieval recall from 23% → 84% | `FastAPI` `Gemini` `ChromaDB` `BM25/RRF` |
+| 💬 **ChatWidget AI** | White-label RAG chatbot SaaS with billing, analytics & geo-pricing | `Next.js` `FastAPI` `Razorpay` `Supabase` |
+| 🎯 **Nyxleads** | Multi-source AI lead scraping CLI with license-key auth & anti-piracy binding | `Python` `Typer` `FastAPI` `Supabase` |
+| 🤖 **Scoutr** | Autonomous ReAct-loop coding agent, hand-written (no heavy frameworks) | `Python` `Groq` `Gemini` |
+| 📈 **Brefly** | White-label client reporting SaaS — GA/Ads data → auto PDF reports via email | `Next.js` `FastAPI` `WeasyPrint` `Razorpay` |
 
 ---
 
@@ -125,9 +127,9 @@ AI-powered Hindi YouTube Shorts creation studio. Claude API for scripts → Veo 
 
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=chainlink&logoColor=58a6ff)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=llvm&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF6B35)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
@@ -135,8 +137,8 @@ AI-powered Hindi YouTube Shorts creation studio. Claude API for scripts → Veo 
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
@@ -145,27 +147,21 @@ AI-powered Hindi YouTube Shorts creation studio. Claude API for scripts → Veo 
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
 
 **⚙️ Backend & Database**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 **🚀 DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 </div>
 
