@@ -21,7 +21,7 @@ class Gaurav:
     name         = "Gaurav"
     location     = "Bhiwani, Haryana, India 🇮🇳"
     role         = ["Generative AI Engineer", "Backend Dev", "Fullstack Dev"]
-    education    = "BCA @ S.L.N. Hindu College — started Oct 2026"
+    education    = "BCA @ S.L.N. Hindu College — started Aug 2026"
     core_stack   = ["Python", "FastAPI", "Next.js", "LangChain/RAG", "PostgreSQL"]
     currently    = ["JobPilot 🎯", "RankFuse 🔍", "Vyom 🎬"]
     linkedin     = "linkedin.com/in/gauravstack"
