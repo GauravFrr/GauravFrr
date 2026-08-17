@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20RAG%20%26%20Agent%20Systems%20%7C%20Fullstack%20Dev&descAlignY=58&descSize=18&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Fullstack%20Dev&descAlignY=58&descSize=20&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+production-grade+RAG+%2B+AI+agents+%F0%9F%A4%96;JobPilot+%7C+RankFuse+%7C+MemoryOS+%7C+Vyom;3%2B+years+shipping+real+AI+systems+%F0%9F%9A%80;Self-taught.+Haryana+se.+Now+also+BCA+student.)](https://github.com/GauravFrr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+that+actually+works+in+production+%F0%9F%A4%96;RAG+Pipelines+%7C+LLM+Apps+%7C+AI+Agents+%7C+Automation;3%2B+years+shipping+real+AI+systems+%F0%9F%9A%80;Self-taught.+Haryana+se.+No+degree%2C+just+code.)](https://github.com/GauravFrr)
 
 <br/>
 
