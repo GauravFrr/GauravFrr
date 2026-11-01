@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav%20Bomra&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20RAG%2C%20LLM%20Agents%2C%20Python%20Backend&descAlignY=58&descSize=20&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+systems+that+hold+up+in+production;RAG+Pipelines+%7C+LLM+Apps+%7C+AI+Agents+%7C+Python+Backend;Open+to+remote+AI+Engineer+roles)](https://github.com/GauravFrr)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Building+AI+systems+that+hold+up+in+production;RAG+%7C+LLM+Apps+%7C+AI+Agents+%7C+Python+Backend;Open+to+remote+AI+Engineer+roles)](https://github.com/GauravFrr)
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GauravFrr&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/GauravFrr)
