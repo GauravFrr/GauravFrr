@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav%20Bomra&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20RAG%2C%20LLM%20Agents%2C%20Python%20Backend&descAlignY=58&descSize=20&descColor=8b949e)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Building+AI+systems+that+hold+up+in+production;RAG+%7C+LLM+Apps+%7C+AI+Agents+%7C+Python+Backend;Open+to+remote+AI+Engineer+roles)](https://github.com/GauravFrr)
+
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GauravFrr&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/GauravFrr)
@@ -17,45 +18,42 @@
 
 ```python
 class Gaurav:
-    name         = "Gaurav Bomra"
-    location     = "Bhiwani, Haryana, India 🇮🇳"
-    role         = ["Generative AI Engineer", "Backend Dev", "Fullstack Dev"]
-    education    = "BCA @ S.L.N. Hindu College — started Aug 2026"
-    core_stack   = ["Python", "FastAPI", "Next.js", "LangChain/RAG", "PostgreSQL"]
-    currently    = ["JobPilot 🎯", "RankFuse 🔍", "Vyom 🎬"]
-    linkedin     = "linkedin.com/in/gauravstack"
-    email        = "gauravdevxd@gmail.com"
-    experience   = "3+ years building real AI systems"
-    mindset      = "Ship fast. Learn faster. Break things. Fix them."
-    open_to      = "Full-time AI Engineer / Backend — Remote"
+    name        = "Gaurav Bomra"
+    location    = "Bhiwani, Haryana, India 🇮🇳"
+    role        = ["AI Engineer", "RAG & LLM Systems", "Python Backend"]
+    education   = "BCA @ S.L.N. Hindu College — started Aug 2026"
+    core_stack  = ["Python", "FastAPI", "LangGraph", "PostgreSQL/pgvector", "Docker"]
+    currently   = ["MemoryOS 🧠", "JobPilot 🎯"]
+    experience  = "3+ years building AI systems (client work + own products)"
+    open_to     = "Full-time AI Engineer / Backend — Remote"
+    linkedin    = "linkedin.com/in/gauravstack"
+    email       = "gauravdevxd@gmail.com"
 ```
 
 </div>
 
 ---
 
-## ⚡ What I Actually Build
+## ⚡ What I Build
 
 <table>
 <tr>
 <td width="50%">
 
 **🤖 AI & LLM Systems**
-- RAG pipelines: hybrid retrieval (BM25 + dense + RRF + reranking)
-- AI agents & automation with LangChain / LangGraph
-- LLM API integrations (Claude, Gemini, OpenAI, Groq)
+- RAG pipelines: hybrid retrieval (BM25 + dense + RRF) with cross-encoder reranking and eval harnesses
+- Multi-agent systems with LangGraph: supervisor orchestration, persistent memory, human-in-the-loop approvals
+- LLM API integrations (Claude, Gemini, OpenAI, Groq, Ollama)
 - Vector search with pgvector / ChromaDB
-- Prompt engineering & context/memory management
 
 </td>
 <td width="50%">
 
-**🔧 Fullstack & Automation**
-- FastAPI + Next.js production backends
-- Telegram bots for automation & notifications
-- Job-search & workflow automation pipelines
-- Self-hosted deployments on VPS (Webdock, Ubuntu)
-- AI-assisted dev workflow (Antigravity + Claude review)
+**🔧 Backend & Infrastructure**
+- FastAPI + PostgreSQL + Redis backends, Dockerized
+- LLM gateways: rate limiting, budget caps, circuit-breaker failover
+- Observability: OpenTelemetry tracing, Prometheus + Grafana
+- Telegram bots and workflow automation
 
 </td>
 </tr>
@@ -63,58 +61,80 @@ class Gaurav:
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🎯 JobPilot
-**AI Job-Application Automation**
+### 📊 [Retryv](https://github.com/GauravFrr/Retryv)
+**Production RAG Pipeline**
 
-Personal job-hunt automation — scrapes & scores roles, drafts applications, and pings via Telegram. Nothing auto-submits — every apply is a human-approved tap.
+Hybrid retrieval (BM25 + dense + RRF) with cross-encoder reranking over the FastAPI docs. Recall went from 23% to 84% on a 52-query eval set. [Read the case study](https://github.com/GauravFrr/Retryv/blob/main/case_study.md).
 
-`FastAPI` `Next.js` `PostgreSQL`
-`pgvector` `Telegram Bot`
+`FastAPI` `Gemini` `ChromaDB`
+`BM25` `Cross-Encoder`
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🔍 RankFuse
+### 🤖 [Agent Orchestration](https://github.com/GauravFrr/agent-orchestration)
+**Multi-Agent System**
+
+LangGraph supervisor delegates to specialist agents, keeps memory across sessions, and pauses for human approval on sensitive actions. Traced with OpenTelemetry, replayable from checkpoints.
+
+`LangGraph` `FastAPI` `Redis`
+`PostgreSQL` `OpenTelemetry`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚦 [LLM Gateway](https://github.com/GauravFrr/LLM-Gateway)
+**Provider Failover & Rate Limiting**
+
+One API in front of Gemini, Claude, Groq and Ollama. Redis-backed rate limits and budget caps, circuit breakers with automatic fallback. ~1.4ms median overhead.
+
+`FastAPI` `Redis` `Prometheus`
+`Grafana`
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🔍 [RankFuse](https://github.com/GauravFrr/RankFuse)
 **Hybrid RAG Retrieval Library**
 
-pip-installable retrieval engine combining ChromaDB + BM25 + Reciprocal Rank Fusion + cross-encoder reranking, built for plug-and-play RAG accuracy gains.
+Open-source `pip install rankfuse`. Dense + BM25 fusion with cross-encoder and LLM-judge reranking. Config-driven, bring your own keys.
 
 `Python` `ChromaDB` `BM25`
-`Cross-Encoder Reranking`
+`PyPI`
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🎬 Vyom
-**AI Hindi Shorts Studio**
+### 🧠 [MemoryOS](https://github.com/GauravFrr/MemoryOs)
+**Universal AI Memory Layer**
 
-AI-powered Hindi YouTube Shorts pipeline. Claude API for scripts → Veo/Seedance for video → Imagen 3 for visuals — a free alternative to Kling/Runway.
+Chrome extension captures ChatGPT, Claude and Gemini conversations, extracts structured memories, and injects context into new sessions.
 
-`Python` `Claude API`
-`Imagen 3` `Veo 3.1`
+`Next.js` `NestJS` `pgvector`
+`Redis` `BullMQ`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎯 [JobPilot](https://github.com/GauravFrr/JobPilot)
+**Job-Application Automation**
+
+Discovers roles, tailors resumes with LLM matching, and applies through a Telegram bot. Every submission needs a human tap, nothing auto-submits.
+
+`FastAPI` `Next.js` `pgvector`
+`Telegram Bot`
 
 </td>
 </tr>
 </table>
-
----
-
-## 📂 More Projects
-
-| 🏷️ Project | 💡 Description | 🛠️ Stack |
-|---|---|---|
-| 🧠 **MemoryOS** | Universal AI memory layer — captures conversations, extracts structured memories, injects context back into ChatGPT/Claude/Gemini | `Next.js` `NestJS` `pgvector` `Redis` `BullMQ` |
-| 📊 **Retryv** | Production RAG system — reranking pushed retrieval recall from 23% → 84% | `FastAPI` `Gemini` `ChromaDB` `BM25/RRF` |
-| 💬 **ChatWidget AI** | White-label RAG chatbot SaaS with billing, analytics & geo-pricing | `Next.js` `FastAPI` `Razorpay` `Supabase` |
-| 🎯 **Nyxleads** | Multi-source AI lead scraping CLI with license-key auth & anti-piracy binding | `Python` `Typer` `FastAPI` `Supabase` |
-| 🤖 **Scoutr** | Autonomous ReAct-loop coding agent, hand-written (no heavy frameworks) | `Python` `Groq` `Gemini` |
-| 📈 **Brefly** | White-label client reporting SaaS — GA/Ads data → auto PDF reports via email | `Next.js` `FastAPI` `WeasyPrint` `Razorpay` |
 
 ---
 
@@ -138,14 +158,7 @@ AI-powered Hindi YouTube Shorts pipeline. Claude API for scripts → Veo/Seedanc
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-**🎨 Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
 **⚙️ Backend & Database**
 
@@ -153,57 +166,35 @@ AI-powered Hindi YouTube Shorts pipeline. Claude API for scripts → Veo/Seedanc
 ![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-**🚀 DevOps & Tools**
+**🎨 Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+**🚀 DevOps & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0d1117?style=for-the-badge&logo=opentelemetry&logoColor=F5A800)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GauravFrr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravFrr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravFrr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="165"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GauravFrr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/GauravFrr)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GauravFrr&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravFrr&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/GauravFrr/GauravFrr/output/github-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GauravFrr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/GauravFrr)
 
 </div>
 
@@ -216,10 +207,6 @@ AI-powered Hindi YouTube Shorts pipeline. Claude API for scripts → Veo/Seedanc
 [![Email](https://img.shields.io/badge/Gmail-gauravdevxd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravdevxd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravstack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravstack)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gauravxd.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gauravxd.dev)
-
-<br/>
-
-> *"Self-taught. Haryana se. Building real AI — not just talking about it."*
 
 </div>
 
