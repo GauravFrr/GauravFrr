@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Fullstack%20Dev&descAlignY=58&descSize=20&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f35,70:0d2137,100:0a3d5c&height=200&section=header&text=Gaurav%20Bomra&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20RAG%2C%20LLM%20Agents%2C%20Python%20Backend&descAlignY=58&descSize=20&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+that+actually+works+in+production+%F0%9F%A4%96;RAG+Pipelines+%7C+LLM+Apps+%7C+AI+Agents+%7C+Automation;3%2B+years+shipping+real+AI+systems+%F0%9F%9A%80;Self-taught.+Haryana+se.+No+degree%2C+just+code.)](https://github.com/GauravFrr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+systems+that+hold+up+in+production;RAG+Pipelines+%7C+LLM+Apps+%7C+AI+Agents+%7C+Python+Backend;Open+to+remote+AI+Engineer+roles)](https://github.com/GauravFrr)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ```python
 class Gaurav:
-    name         = "Gaurav"
+    name         = "Gaurav Bomra"
     location     = "Bhiwani, Haryana, India 🇮🇳"
     role         = ["Generative AI Engineer", "Backend Dev", "Fullstack Dev"]
     education    = "BCA @ S.L.N. Hindu College — started Aug 2026"
